@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947513651240",
+    "firebase_url": "https://test1stweb-416a6.firebaseio.com",
+    "project_id": "test1stweb-416a6",
+    "storage_bucket": "test1stweb-416a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947513651240:android:1c3f678d5235dee8",
+        "android_client_info": {
+          "package_name": "com.example.flutterfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947513651240-v5octc7u4e9e94c2kpqtpk7qrenhvqlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTCAAipmaB0cZhqK_UlXoYoq12Ow8SQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
